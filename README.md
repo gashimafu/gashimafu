@@ -1,6 +1,6 @@
 I'm a novice programmer, currently learning a computer language LISP, especially Common LISP. 
 
-LISP software is art. I'm trying to be an artist.
+LISP software is art
 <!--
 **gashimafu/gashimafu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
